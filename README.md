@@ -14,7 +14,7 @@ Software:
 * Anaconda
 
 # Results
-![weather_database_df](https://user-images.githubusercontent.com/90335218/145691491-422a1e97-613d-4262-92a1-1a68597d892b.png | width=100)
+![weather_database_df](weather_database/weather_database_df.png width="100")
 ![WeatherPy_vacation_df](https://user-images.githubusercontent.com/90335218/145691399-0ac33e84-54e6-4d55-a790-d2085d7d6dad.png| width=100)
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/90335218/145691400-4314ac9a-fa30-43b6-a567-3ff69d67206d.png| width=100)
 ![WeatherPy_travel_df](https://user-images.githubusercontent.com/90335218/145691471-b79d3287-fb32-47a4-9d61-589abac1c660.png| width=100)
