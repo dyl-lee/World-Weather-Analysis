@@ -14,9 +14,32 @@ Software:
 * Anaconda
 
 # Results
-![weather_database_df](weather_database/weather_database_df.png width="100")
-![WeatherPy_vacation_df](https://user-images.githubusercontent.com/90335218/145691399-0ac33e84-54e6-4d55-a790-d2085d7d6dad.png| width=100)
-![WeatherPy_vacation_map](https://user-images.githubusercontent.com/90335218/145691400-4314ac9a-fa30-43b6-a567-3ff69d67206d.png| width=100)
-![WeatherPy_travel_df](https://user-images.githubusercontent.com/90335218/145691471-b79d3287-fb32-47a4-9d61-589abac1c660.png| width=100)
-![WeatherPy_travel_map](https://user-images.githubusercontent.com/90335218/145691482-6acad631-46ab-42bd-bcb6-b36b71080743.png| width=100)
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/90335218/145691486-a73bf445-62b8-4f74-b467-464d5effc107.png| width=100)
+<details>
+   <summary>Summary DataFrame with Weather Details</summary>
+   <img src="weather_database/weather_database_df.png" width="80%"> 
+</details>
+
+<details>
+    <summary>Summary DataFrame for Weather and Hotel Details</summary>
+    <img src="vacation_search/WeatherPy_vacation_df.png" width="80%"> 
+</details>
+
+<details>
+    <summary>Marker Layer for Destination</summary>
+    <img src="vacation_search/WeatherPy_vacation_map.png" width="80%"> 
+</details>
+
+<details>
+    <summary>Summary DataFrame for Itinerary</summary>
+    <img src="vacation_itinerary/WeatherPy_travel_df.png" width="80%"> 
+</details>
+
+<details>
+    <summary>Directions Layer for Itinerary</summary>
+    <img src="vacation_itinerary/WeatherPy_travel_map.png" width="80%"> 
+</details>
+
+<details>
+    <summary>Marker Layer for Itinerary</summary>
+    <img src="vacation_itinerary/WeatherPy_travel_map_markers.png" width="80%"> 
+</details>
